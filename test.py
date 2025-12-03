@@ -4,7 +4,7 @@ def test_export_report_1():
      assert b > a
 
 
- def test_export_report_2():
+def test_export_report_2():
      a = 2 + 2
      b = 4 + 4
      assert a < b
